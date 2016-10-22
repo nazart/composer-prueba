@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Other;
+namespace Prueba\Other;
 
 class Object{
 

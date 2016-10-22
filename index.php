@@ -10,11 +10,11 @@ $log->pushHandler(new StreamHandler('coneccion/your.log', Logger::WARNING));
 
 
 
-$object = new App\Other\Object();
+$object = new Prueba\Other\Object();
 
 
 try {
-	$conect = new App\Coneccion();
+	$conect = new Prueba\Coneccion();
 	$conect->setDb('mongo');
 } catch (Exception $e) {
 	echo 'Se ha generado un error en la coneccion';

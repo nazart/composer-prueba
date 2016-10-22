@@ -1,2 +1,3 @@
 [2016-10-22 06:07:37] name.ERROR: #0 D:\developer\hackaton\composer\index.php(18): App\Coneccion->setDb('mongo') #1 {main} [] []
 [2016-10-22 06:30:11] name.ERROR: #0 D:\developer\hackaton\composer\index.php(18): App\Coneccion->setDb('mongo') #1 {main} [] []
+[2016-10-22 07:05:17] name.ERROR: #0 D:\developer\hackaton\composer\index.php(18): Prueba\Coneccion->setDb('mongo') #1 {main} [] []

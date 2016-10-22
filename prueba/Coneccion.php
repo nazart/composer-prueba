@@ -1,5 +1,5 @@
 <?php
-namespace App;
+namespace Prueba;
 class Coneccion {
 	function setDb($db) {
 		switch ($db) {
